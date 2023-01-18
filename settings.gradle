@@ -1,0 +1,5 @@
+rootProject.name = 'netology_builders_homework2'
+include 'db'
+include 'api'
+include 'service'
+
